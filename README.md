@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🌍 WanderNest
 
 **WanderNest** is a full-stack web application inspired by Airbnb, allowing users to list, explore, and review travel stays with interactive maps, secure authentication, and image uploads.
